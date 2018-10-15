@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "318644506882",
+    "firebase_url": "https://managehome-gnt2018.firebaseio.com",
+    "project_id": "managehome-gnt2018",
+    "storage_bucket": "managehome-gnt2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318644506882:android:debc3a7cfd29ae91",
+        "android_client_info": {
+          "package_name": "com.geeksntechnology.managehome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318644506882-g8ch3f5mijv8fj8dfs1q87uc2hb3osg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geeksntechnology.managehome",
+            "certificate_hash": "d5a5b1eb32e7ace5f9e74f0c7548382ad0485f68"
+          }
+        },
+        {
+          "client_id": "318644506882-qhip7v0h8p961ttkoqo2j4793bogulcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWErSFnI9UrS9utZimgmOZqwyfGiKn2cg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318644506882-qhip7v0h8p961ttkoqo2j4793bogulcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
