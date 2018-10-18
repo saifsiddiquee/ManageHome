@@ -1,4 +1,4 @@
-package com.geeksntechnology.managehome;
+package com.geeksntechnology.managehome.activities;
 
 import android.support.annotation.NonNull;
 import android.support.design.widget.NavigationView;
@@ -11,6 +11,8 @@ import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.view.View;
+
+import com.geeksntechnology.managehome.R;
 
 public class MainActivity extends AppCompatActivity {
 

@@ -1,4 +1,4 @@
-package com.geeksntechnology.managehome;
+package com.geeksntechnology.managehome.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -9,6 +9,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+
+import com.geeksntechnology.managehome.R;
+import com.geeksntechnology.managehome.R2;
+
 import butterknife.BindView;
 import butterknife.ButterKnife;
 
